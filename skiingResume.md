@@ -6,10 +6,15 @@ Manali, India
 (+91) 94181 48514  
 
 ### Personal Profile
-I am a skilled, confident outdoorsman having spent considerable time backpacking and mountaineering in the Indian Himalayas. I've displayed a strong sense of trustworthiness, punctuality, reliability, sensitivity and interpersonal skills while leading outdoor groups. I completed the Trip Leader course organised by NOLS India which helped me polish my leadership and communication skills. I'm smart with a keen analytical mind and am a quick thinker. 
-As a member of the football team since high-school, I imbibed crucial lessons in man-management and motivational skills.
+I am a skilled, confident outdoorsman having spent considerable time backpacking and mountaineering in the Indian Himalayas. I've displayed a strong sense of trustworthiness, punctuality, reliability, sensitivity and interpersonal skills while leading outdoor groups. I completed the Trip Leader course organised by NOLS India which helped me polish my leadership and communication skills. I have a keen analytical mind and am a quick thinker. As a member of the football team since high-school, I imbibed crucial lessons in man-management and motivational skills.
 
 ### Courses
+* Advanced Skiing Course (A grade)
+	1. 14 day course
+	2. Winter '15
+	2. Near Manali, India
+	3. Long parallels, short parallels, linked turns
+	4. Follows Intermediate and Basic Skiing courses of similar format
 * Advanced Mountaineering Course (A grade)
 	1. 26 day course
 	2. Fall '14
@@ -23,12 +28,6 @@ As a member of the football team since high-school, I imbibed crucial lessons in
 	3. *self-sufficient* backpacking for 19 days
 	3. Lessons on PLE, Leadership skills, Leadership styles, Learning styles, First Aid, Navigation, Leave No Trace, etc.
 	4. 12 students, 2 instructors
-* Advanced Skiing Course (A grade)
-	1. 14 day course
-	2. Winter '15
-	2. Near Manali, India
-	3. Long parallels, short parallels, linked turns
-	4. Follows Intermediate and Basic Skiing courses of similar format
 
 
 ### Outdoor Experience
