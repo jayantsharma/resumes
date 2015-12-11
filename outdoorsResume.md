@@ -5,6 +5,32 @@ Manali, India
 *jayantsharma1990@gmail.com*  
 (+91) 94181 48514  
 
+### Personal Profile
+I am a confident, competent outdoorsman having spent considerable time backpacking and mountaineering in the Indian Himalayas. I've displayed a strong sense of trustworthiness, punctuality, reliability, sensitivity and interpersonal skills while leading outdoor groups. I completed the Trip Leader course organised by NOLS India which helped me polish my leadership and communication skills. I'm smart with a keen analytical mind and am a quick thinker. 
+As a member of the football team since high-school, I imbibed crucial lessons in man-management and motivational skills.
+
+### Courses
+* Advanced Mountaineering Course (A grade)
+	1. 26 day course
+	2. Fall '14
+	2. hard skills training on rock, snow and ice
+	3. rope-work, belaying, rescue techniques
+	4. 15 days camping
+	6. Follows Basic Mountaineering Course of similar format
+* NOLS Trip Leader India
+	1. 21 day course
+	2. Fall '15
+	3. *self-sufficient* backpacking for 19 days
+	3. Lessons on PLE, Leadership skills, Leadership styles, Learning styles, First Aid, Navigation etc.
+	4. 12 students, 2 instructors
+* Advanced Skiing Course (A grade)
+	1. 14 day course
+	2. Winter '15
+	2. Near Manali, India
+	3. Long parallels, short parallels, linked turns
+	4. Follows Intermediate and Basic Skiing courses of similar format
+
+
 ### Outdoor Experience
 #### Skiing
 * Learnt skiing last season
@@ -12,16 +38,17 @@ Manali, India
 * 40 days of skiing practice
 * elegant short parallels and linked turns
 
-#### Mountaineering
+#### Personal Expeditioning
 
 1. Summitted Mt. Kang Yatze II 
     * 6245 m 
     * summer '15
-    * difficulty alpine PD+
+    * difficulty alpine PD+  
     * completed in a two-member roped-up team
     * summitted via N face
     * 9 days/8 nights
     * combined with the Markha valley trek from Chilling to Shang Sumdo 
+
 2. Summitted Peak 6265m in Spiti 
     * summer '15
     * difficulty alpine PD+
@@ -36,21 +63,44 @@ Manali, India
     * 3-member climb on icy terrain
     * summitted via W face
     * 3 days/2 nights
+
 4. Attempted Mt. Yunam (6111 m) twice
     * summer '15
     * alpine PD-
     * First attempt : led my sick partner (mild HAPE) to the road-head through 5 hours of snow-fall, carrying our collective gear
     * Second attempt : Solo attempt, reached ~ 5800 meters. Bad weather retreat.
-5. Mt. Deo Tibba
-    * 6001 m
-    * High Altitude Porter / staff-member
-    * Bad weather retreat, from High Camp at 5000 m
+
+5. Hampta Pass
+	* summer '14
+	* 5 day solo self-sufficient trek
+	* terrain varied from alpine to high-altitude desert
 
 ### Outdoors Guiding   
-Since I've focused more on personal climbing trips than guiding, naturally, my outdoor guiding experience is limited. I've had a month of running camping groups comprising children, and occasionally, adults. Then came the above climbing trip on which I was a HAP/guide. I found these trips very different from my personal trips. Mostly, I had much to understand in terms of patience, communication, and learning to lead while being sensitive to people of all capabilities.
+1. Ran Summer Camps 
+	* Summer '15
+	* Groups comprised mostly children, and occasionally, adults 
+	* Duration of 1 month, each group lasting 4-5 days
+	* Led rappelling, rock-climbing, day-hikes, backpacking activites
 
-### College Football Team
-While at school, I was a member of the football team for three years before shifting my attention to the climbing wall. I imbibed crucial lessons in team-ethics and leadership through my long association. While boredom and frustration with some aspects pushed me away from the team, it was a very important formative association for me.\par
+2. Mt. Deo Tibba
+	* High Altitude Porter / staff-member
+	* Summer '15
+	* 13d/12n
+    	* 6001 m
+	* Camped on snow for 11 nights
+    	* Bad weather retreat, from High Camp at 5000 m
+
+3. Miyar nala, Karpat nala 
+	* Fall 2015
+	* 9d/9n
+	* guided 6 clients (all over 50 yrs), including a disabled person (sensory disability in feet) 
+	* terrain varied from meadows, snow, steep scree to glacial
+	* responsible for overall communication between staff and clients
 
 ### Non-Outdoor Work Experience
-After graduating in Computer Science as an engineer, I was employed with PayU India, a leading online payment gateway, for an year. I was responsible for automating settlement of money to merchants and risk-analysis. Apart from technical skills, I learnt much in the way of soft-skills that are bound to be relevant in any field. I came to value professionalism and communication with team-members of utmost importance. Trustworthiness comes naturally to me and I saw it visible in the way I was valued by my manager
+1. Software Engineer at PayU India
+	* 1 year
+	* 2013 - '14
+2. Software Intern at Siemens India
+	* 10 weeks
+	* summer '12
