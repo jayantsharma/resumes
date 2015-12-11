@@ -6,7 +6,7 @@ Manali, India
 (+91) 94181 48514  
 
 ### Personal Profile
-I am a confident, competent outdoorsman having spent considerable time backpacking and mountaineering in the Indian Himalayas. I've displayed a strong sense of trustworthiness, punctuality, reliability, sensitivity and interpersonal skills while leading outdoor groups. I completed the Trip Leader course organised by NOLS India which helped me polish my leadership and communication skills. I'm smart with a keen analytical mind and am a quick thinker. 
+I am a skilled, confident outdoorsman having spent considerable time backpacking and mountaineering in the Indian Himalayas. I've displayed a strong sense of trustworthiness, punctuality, reliability, sensitivity and interpersonal skills while leading outdoor groups. I completed the Trip Leader course organised by NOLS India which helped me polish my leadership and communication skills. I'm smart with a keen analytical mind and am a quick thinker. 
 As a member of the football team since high-school, I imbibed crucial lessons in man-management and motivational skills.
 
 ### Courses
@@ -21,7 +21,7 @@ As a member of the football team since high-school, I imbibed crucial lessons in
 	1. 21 day course
 	2. Fall '15
 	3. *self-sufficient* backpacking for 19 days
-	3. Lessons on PLE, Leadership skills, Leadership styles, Learning styles, First Aid, Navigation etc.
+	3. Lessons on PLE, Leadership skills, Leadership styles, Learning styles, First Aid, Navigation, Leave No Trace, etc.
 	4. 12 students, 2 instructors
 * Advanced Skiing Course (A grade)
 	1. 14 day course
@@ -86,9 +86,9 @@ As a member of the football team since high-school, I imbibed crucial lessons in
 	* High Altitude Porter / staff-member
 	* Summer '15
 	* 13d/12n
-    	* 6001 m
+    * 6001 m
 	* Camped on snow for 11 nights
-    	* Bad weather retreat, from High Camp at 5000 m
+    * Bad weather retreat, from High Camp at 5000 m
 
 3. Miyar nala, Karpat nala 
 	* Fall 2015
